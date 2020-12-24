@@ -29,3 +29,13 @@ div {
 h1, p {
 	text-align: center;
 }
+
+@media screen and (max-device-width: 1200px) {
+	h1 {
+		font-size: 4em;
+	}
+
+	p {
+		font-size: 2em;
+	}
+}
