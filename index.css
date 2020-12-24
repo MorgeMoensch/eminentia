@@ -2,16 +2,24 @@
 	font-family: 'absolute-empire';
 	src: url('absolute-empire.woff2') format('woff2');
 	font-weight: normal;
+	font-display: swap;
 }
 
 body {
-	background-image: url('background.webp'), url('background.jpg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
 	width: 100vw;
 	margin: 0;
+}
+
+.webp body {
+	background-image: url('background.webp')
+}
+
+.no-webp body {
+	background-image: url('background.jpg')
 }
 
 div {
@@ -34,7 +42,6 @@ h1, p {
 	h1 {
 		font-size: 4em;
 	}
-
 	p {
 		font-size: 2em;
 	}
