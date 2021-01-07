@@ -37,6 +37,11 @@ h1, p {
 	text-align: center;
 }
 
+#logo {
+	width: 30em;
+	margin: 3em auto 3em auto;
+}
+
 .sm-container {
 	text-align: center;
 	display: block;
@@ -46,6 +51,8 @@ h1, p {
 	display: inline-block;
 	height: 3em;
 	width: auto;
+	margin-left: 1em;
+	margin-right: 1em;
 }
 
 .sm-container img {
