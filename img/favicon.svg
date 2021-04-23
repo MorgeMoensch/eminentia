@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 -50 900 1000"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg10"
+   sodipodi:docname="eminentia-logo-2.svg"
+   width="1000"
+   height="1000"
+   style="background-color: white"
+><metadata
+   id="metadata2"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs14" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   id="namedview12"
+   showgrid="true"
+   showguides="true" />
+
+<g
+   id="layer4"
+   transform="translate(0,0)"><g
+     transform="matrix(0.1,0,0,-0.1,0,512)"
+     id="g6-0"><path
+       d="m 4302.8,4891.5 c -21.1,-72.9 -130.4,-312.6 -241.6,-537 -255.1,-502.5 -295.3,-634.8 -295.3,-955.1 0,-130.4 11.5,-268.5 24.9,-316.4 61.4,-211 187.9,-387.4 335.6,-464.1 71,-36.4 72.9,-36.4 59.5,-1.9 -92.1,224.4 -90.1,431.5 7.7,749.8 40.3,134.2 84.4,291.5 97.8,349 38.4,166.9 47.9,172.6 101.6,65.2 134.2,-264.6 140,-435.3 30.7,-770.9 -42.2,-132.3 -82.5,-281.9 -88.2,-335.6 l -11.5,-94 76.7,40.3 c 105.5,53.7 286.7806,205.4595 357.6806,316.6595 234,364.4 190.7194,954.8405 -100.7806,1574.2405 -90.1,189.9 -281.9,508.2 -306.8,508.2 -5.8,0.1 -28.8,-57.4 -48,-128.4 z"
+       id="path2-6"
+       sodipodi:nodetypes="ccscccccccccccccc" /><g
+       id="g846-3"><path
+         d="m 4931.8,2657.3 c -293.4,-232 -444.9,-333.7 -625.2,-427.7 -115.1,-59.5 -216.7,-126.6 -230.1,-149.6 -47.9,-90.1 -53.7,-174.5 -21.1,-324.1 40.3,-187.9 21.1,-245.5 -76.7,-245.5 -71,0 -128.5,47.9 -128.5,107.4 0,19.2 17.3,82.5 40.3,140 53.7,145.8 17.3,251.2 -86.3,251.2 -63.3,0 -239.7,-94 -264.7,-140 -13.4,-23 -28.8,-159.2 -36.4,-301.1 -7.7,-141.9 -32.6,-335.6 -53.7,-431.5 -46,-197.5 -47.9,-266.6 -19.2,-352.9 24.9,-69 90.1,-94 163,-61.4 l 46,21.1 V -1021 -2785.4 H 3296 c -450.7,0 -462.2,-15.3 -118.9,-153.4 245.5,-97.8 293.4,-130.4 345.2,-235.9 34.5,-69.1 40.3,-118.9 40.3,-306.9 l 1.0358,-248.4 h 1534.6379 l -1.4737,240.7 c 1.9,349 51.8,418.1 408.5,560 128.5,51.8 222.5,99.7 218.6,113.2 -3.9,13.5 -117,23 -354.8,26.8 l -349,3.8 -1.7537,1366.5687 V -62.931315 c 19.1038,17.725234 42.5234,26.339517 82.5,0 132.9386,-87.589705 178.3,65.2000003 109.3,408.500005 C 5137.2463,723.36869 5129.4,858.4 5146.7,1405 c 25,826.6 23,1179.4 -11.5,1246.6 -40.4,80.5 -105.6,82.4 -203.4,5.7 z"
+         id="path4-2"
+         sodipodi:nodetypes="ccccsscsccccccccsccsccccsccccscccc" /></g><g
+       aria-label="Em"
+       transform="matrix(0.9437319,0,0,-0.9437319,-1740.7411,-2963.8445)"
+       id="text887"></g></g></g></svg>
