@@ -98,10 +98,15 @@ h1, h2, p {
 	}
 
 	.sm-container a {
-		height: 6em;
+		width: 4em;
 	}
 
 	#show-reel {
 		flex-wrap: wrap;
+	}
+
+	#logo {
+		width: 15em;
+		max-width: 80vw;
 	}
 }
