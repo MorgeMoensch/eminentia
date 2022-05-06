@@ -126,9 +126,20 @@ p {
 	margin-top:  0;
 }
 
-#part3::after {
+#part3 > p {
+	margin-bottom: 0
+}
+
+#part4 {
+	background-color: rgba(255, 255, 255, 1);
+	padding-top: 2rem;
+	width: calc(100% + 4rem);
+	margin-left: -2rem;
+}
+
+#part4::after {
 	content: "";
-	background-color: rgba(255, 255, 255, 0.96);
+	background-color: rgba(255, 255, 255, 1);
 	display: inline-block;
 	height: 0;
 	width: 100%;
@@ -179,8 +190,28 @@ p {
 	overflow: hidden;
 	background-color:  rgba(255,255,255,0.7);
 	background:
-			linear-gradient(to left bottom, rgba(255,255,255,0) 75%, rgba(255,255,255, 0.8) 50%),
-			linear-gradient(to right bottom, rgba(255,255,255,0) 75%, rgba(255,255,255, 0.8) 75%);
+			linear-gradient(to left bottom, rgba(255,255,255,0) 75%, rgba(255,255,255, 0.7) 50%),
+			linear-gradient(to right bottom, rgba(255,255,255,0) 75%, rgba(255,255,255, 0.7) 75%);
+}
+
+#arrow3::before {
+	content: "";
+	display: inline-block;
+	background-color: rgba(255,255,255, 0.9);
+	height: 4.7rem;
+	width: calc(100% + 4rem);
+}
+#arrow3 {
+	content: "";
+	display: block;
+	height: 4.7rem;
+	width: calc(100% + 4rem);
+	margin-left: -2rem;
+	overflow: hidden;
+	background-color:  rgba(255,255,255,0.7);
+	background:
+			linear-gradient(to left bottom, rgba(255,255,255,0) 75%, rgba(255,255,255, 1) 50%),
+			linear-gradient(to right bottom, rgba(255,255,255,0) 75%, rgba(255,255,255, 1) 75%);
 }
 
 #coming-soon-placeholder {
