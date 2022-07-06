@@ -160,6 +160,8 @@ p {
 	margin: 2rem;
 	position: relative;
 	display: block;
+	height: 360px;
+	width: 640px;
 }
 
 #arrow {
@@ -252,6 +254,10 @@ p {
 
 	#show-reel {
 		flex-wrap: wrap;
+	}
+
+	#show-reel iframe {
+		height: unset;
 	}
 
 	#coming-soon-placeholder {
